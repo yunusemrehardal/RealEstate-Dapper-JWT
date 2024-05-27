@@ -1,7 +1,11 @@
+using RealEstate_Dapper_UI.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddHttpClient();
+
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
