@@ -18,7 +18,7 @@ namespace RealEstate_Dapper_UI.Controllers
         public async Task<IActionResult> Index()
         {
             var client = _httpClientFactory.CreateClient();
-            var responseMessage = await client.GetAsync("https://localhost:44333/api/Products/ProductListWithCategory");
+            var responseMessage = await client.GetAsync("https://localhost:44334/api/Products/ProductListWithCategory");
             if (responseMessage.IsSuccessStatusCode)
             {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
@@ -49,7 +49,7 @@ namespace RealEstate_Dapper_UI.Controllers
         public async Task<IActionResult> ProductDealOfTheDayStatusChangeToFalse(int id)
         {
             var client = _httpClientFactory.CreateClient();
-            var responseMessage = await client.GetAsync("https://localhost:44333/api/Products/ProductDealOfTheDayStatusChangeToFalse/" + id);
+            var responseMessage = await client.GetAsync("https://localhost:44334/api/Products/ProductDealOfTheDayStatusChangeToFalse/" + id);
             if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
@@ -60,7 +60,7 @@ namespace RealEstate_Dapper_UI.Controllers
         public async Task<IActionResult> ProductDealOfTheDayStatusChangeToTrue(int id)
         {
             var client = _httpClientFactory.CreateClient();
-            var responseMessage = await client.GetAsync("https://localhost:44333/api/Products/ProductDealOfTheDayStatusChangeToTrue/" + id);
+            var responseMessage = await client.GetAsync("https://localhost:44334/api/Products/ProductDealOfTheDayStatusChangeToTrue/" + id);
             if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
