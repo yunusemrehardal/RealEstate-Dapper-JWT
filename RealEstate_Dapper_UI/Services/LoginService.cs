@@ -2,7 +2,7 @@
 
 namespace RealEstate_Dapper_UI.Services
 {
-    public class LoginService
+    public class LoginService : ILoginService
     {
         private readonly IHttpContextAccessor _contextAccessor;
 
