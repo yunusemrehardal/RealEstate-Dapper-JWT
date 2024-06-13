@@ -13,7 +13,7 @@ namespace RealEstate_Dapper_Api.Repositories.TestimonialRepositories
             _context = context;
         }
 
-        public async Task<List<ResultTestimonialDto>> GetAllTestimonialAsync()
+        public async Task<List<ResultTestimonialDto>> GetAllTestimonial()
         {
             string query = "Select * From Testimonial";
             using (var connection = _context.CreateConnection())
