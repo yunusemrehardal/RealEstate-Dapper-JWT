@@ -50,17 +50,17 @@ Thanks to all contributors who have contributed to this project!
     </td>
     <td align="center" style="border: none;">
       <img width="802" alt="re2" src="https://github.com/yunusemrehardal/RealEstate-Dapper-JWT/assets/72738110/1ea763f6-8dec-4741-a2b2-b0da902a04d4">
-      <p><strong>Popular Locations</strong></p>
+      <p><strong>Propery</strong></p>
     </td>
   </tr>
   <tr>
      <td align="center" style="border: none;">
       <img width="922" alt="re3" src="https://github.com/yunusemrehardal/RealEstate-Dapper-JWT/assets/72738110/a30dadde-95bb-4152-a4d8-792ee67f4712">
-      <p><strong>Favorite Property</strong></p>
+      <p><strong>Details</strong></p>
     </td>
     <td align="center" style="border: none;">
       <img width="906" alt="re4" src="https://github.com/yunusemrehardal/RealEstate-Dapper-JWT/assets/72738110/56fe3ade-71ba-4841-9cd7-1d0f653aaafa">
-      <p><strong>Last 3 Property</strong></p>
+      <p><strong>Admin</strong></p>
     </td>
   </tr>
 </table>
