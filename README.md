@@ -45,40 +45,22 @@ Thanks to all contributors who have contributed to this project!
 <table>
   <tr>
     <td align="center" style="border: none;">
-      <img src="RealEstate_Dapper_UI/wwwroot/projectImages/ui.png" alt="Home Page" width="500">
+      <img width="1034" alt="re1" src="https://github.com/yunusemrehardal/RealEstate-Dapper-JWT/assets/72738110/9259a988-93f7-447e-9167-9de4f418d5c2">
       <p><strong>Home Page</strong></p>
     </td>
     <td align="center" style="border: none;">
-      <img src="RealEstate_Dapper_UI/wwwroot/projectImages/popular_locations.png" alt="Popular Locations" width="500">
+      <img width="802" alt="re2" src="https://github.com/yunusemrehardal/RealEstate-Dapper-JWT/assets/72738110/1ea763f6-8dec-4741-a2b2-b0da902a04d4">
       <p><strong>Popular Locations</strong></p>
     </td>
   </tr>
   <tr>
      <td align="center" style="border: none;">
-      <img src="RealEstate_Dapper_UI/wwwroot/projectImages/fovarite_property.png" alt="Favorite Property" width="500">
+      <img width="922" alt="re3" src="https://github.com/yunusemrehardal/RealEstate-Dapper-JWT/assets/72738110/a30dadde-95bb-4152-a4d8-792ee67f4712">
       <p><strong>Favorite Property</strong></p>
     </td>
     <td align="center" style="border: none;">
-      <img src="RealEstate_Dapper_UI/wwwroot/projectImages/last_3_property.png" alt="Last 3 Property" width="500">
+      <img width="906" alt="re4" src="https://github.com/yunusemrehardal/RealEstate-Dapper-JWT/assets/72738110/56fe3ade-71ba-4841-9cd7-1d0f653aaafa">
       <p><strong>Last 3 Property</strong></p>
-    </td>
-  </tr>
-  <tr>
-     <td align="center" style="border: none;">
-      <img src="RealEstate_Dapper_UI/wwwroot/projectImages/admin_panel.png" alt="Admin Panel" width="500">
-      <p><strong>Admin Panel</strong></p>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="RealEstate_Dapper_UI/wwwroot/projectImages/api.png" alt="API" width="500">
-      <p><strong>API</strong></p>
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-     <td align="center" style="border: none;">
-      <img src="RealEstate_Dapper_UI/wwwroot/projectImages/database.png" alt="database" width="650">
-      <p><strong>Database</strong></p>
     </td>
   </tr>
 </table>
